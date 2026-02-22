@@ -1,4 +1,4 @@
-
+---
 title: About
 # the default layout is 'page'
 icon: fas fa-info-circle
@@ -12,3 +12,4 @@ Hi,I am Domonic Kipkorir: Network Engineer| IT Support Specialist|  Cloud and Ne
 - Skilled in cloud and network security. 
 - Proficient in network security analysis. 
 
+---
