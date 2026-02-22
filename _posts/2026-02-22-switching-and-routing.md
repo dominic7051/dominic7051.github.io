@@ -5,3 +5,4 @@ categories: [Networking]
 ---
 
 Understanding of switching and routing technologies in networking.
+Right
