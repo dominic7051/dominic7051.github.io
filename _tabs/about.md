@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
@@ -11,4 +11,3 @@ Hi,I am Domonic Kipkorir, Network Engineer| IT Support Specialist|  Cloud and Ne
 - Skilled in cloud and network security. 
 - Proficient in network security analysis. 
 
----
