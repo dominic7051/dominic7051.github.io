@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I am Dominic Kipkorir, Network Engineer, IT Support Specialist, Cloud and Network Security Engineer, Security Analyst.
+Hi, I'm Dominic Kipkorir, Network Engineer, IT Support Specialist, Cloud and Network Security Engineer,and Security Analyst.
 
     - Proficient in planning, designing, configuring, and securing enterprise-style network infrastructure.
     - Skilled in network monitoring and troubleshooting issues.
