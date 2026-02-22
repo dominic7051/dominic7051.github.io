@@ -1,7 +1,7 @@
 ---
 title: switching and routing
 date: 2026-02-22
-categiries: [Networking]
+categories: [Networking]
 tags: [Network]
 ---
 
