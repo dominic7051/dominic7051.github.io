@@ -1,5 +1,5 @@
 ---
-title: About
+#title: About
 icon: fas fa-info-circle
 order: 4
 ---
@@ -12,6 +12,5 @@ order: 4
  - Skilled in cloud and network security.
  - Proficient in network security analysis.
 
-{: .prompt-tip }
-            
+          
 
